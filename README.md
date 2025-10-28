@@ -34,3 +34,16 @@ Choose from four actions each turn:
 2. View Map – shows the arena layout if the map is found.
 3. Capture Treasure – attempt to seize the Victory Token.
 4. Quit – end your run.
+
+🧾 Example Gameplay Excerpt
+“You move to District 13…
+You found a CAPTURE DEVICE!
+You feel the Victory Token is close!
+…
+🏆 VICTORY! YOU WIN! 🏆 The cannon fires – the Games are over!”
+
+
+**📘 Credits**
+Developed by Angelo Mark Ssali
+for CS 111 – Programme Design (Python)
+University of Illinois Chicago
