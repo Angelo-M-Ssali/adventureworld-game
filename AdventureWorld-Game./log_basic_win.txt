@@ -1,0 +1,93 @@
+=== Program Log (2025-10-26 19:06:58) ===
+
+============================================================
+WELCOME TO THE HUNGER GAMES ARENA
+============================================================
+You have been dropped into the arena.
+Find the Victory Token and capture it to win!
+============================================================
+
+------------------------------------------------------------
+📍 Current Location: District 15
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [6, 14, 16]
+
+📜 You sense something useful nearby...
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [6, 14, 16]
+Enter district number: 14
+
+You move to District 14...
+
+📜 You found an ARENA MAP!
+This will help you navigate and find the Victory Token.
+
+------------------------------------------------------------
+📍 Current Location: District 14
+------------------------------------------------------------
+🎒 You have: Arena Map
+
+🚶 You can move to: [4, 13, 15]
+
+🔧 You detect equipment nearby...
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [4, 13, 15]
+Enter district number: 13
+
+You move to District 13...
+
+🔧 You found a CAPTURE DEVICE!
+You can now detect when the Victory Token is nearby.
+You'll need this to capture the token and win!
+
+------------------------------------------------------------
+📍 Current Location: District 13
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [12, 14, 20]
+
+🏆 You feel the Victory Token is close!
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [12, 14, 20]
+Enter district number: 20
+
+You move to District 20...
+
+============================================================
+🏆 VICTORY! YOU WIN! 🏆
+============================================================
+You found the Victory Token and captured it!
+The cannon fires - the Games are over!
+You survived the Hunger Games!
+You are the VICTOR!
+============================================================
+
+Game ended. Thanks for playing!

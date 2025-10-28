@@ -1,0 +1,233 @@
+=== Program Log (2025-10-26 19:28:26) ===
+
+============================================================
+WELCOME TO THE HUNGER GAMES ARENA
+============================================================
+You have been dropped into the arena.
+Find the Victory Token and capture it to win!
+============================================================
+
+------------------------------------------------------------
+📍 Current Location: District 15
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [6, 14, 16]
+
+📜 You sense something useful nearby...
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [6, 14, 16]
+Enter district number: 6
+
+You move to District 6...
+
+------------------------------------------------------------
+📍 Current Location: District 6
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [5, 7, 15]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [5, 7, 15]
+Enter district number: 
+
+Please enter a valid number!
+
+------------------------------------------------------------
+📍 Current Location: District 6
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [5, 7, 15]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [5, 7, 15]
+Enter district number: 5
+
+You move to District 5...
+
+------------------------------------------------------------
+📍 Current Location: District 5
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [1, 4, 6]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [1, 4, 6]
+Enter district number: 6
+
+You move to District 6...
+
+------------------------------------------------------------
+📍 Current Location: District 6
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [5, 7, 15]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [5, 7, 15]
+Enter district number: 7
+
+You move to District 7...
+
+------------------------------------------------------------
+📍 Current Location: District 7
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [6, 8, 17]
+
+⚠️  WARNING: You sense deadly danger nearby!
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [6, 8, 17]
+Enter district number: 17
+
+You move to District 17...
+
+------------------------------------------------------------
+📍 Current Location: District 17
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [7, 16, 18]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [7, 16, 18]
+Enter district number: 18
+
+You move to District 18...
+
+------------------------------------------------------------
+📍 Current Location: District 18
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [9, 17, 19]
+
+⚠️  WARNING: You sense deadly danger nearby!
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [9, 17, 19]
+Enter district number: 9
+
+You move to District 9...
+
+------------------------------------------------------------
+📍 Current Location: District 9
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [8, 10, 18]
+
+⚠️  WARNING: You sense deadly danger nearby!
+⚡ CAUTION: Something feels off about a nearby area...
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [8, 10, 18]
+Enter district number: 10
+
+You move to District 10...
+
+⚡ THE GAMEMAKERS INTERVENED! ⚡
+A sudden explosion rocks the arena!
+You wake up confused in a different location...
+Your map and device are destroyed in the explosion!
+You find yourself in District 15.
+
+------------------------------------------------------------
+📍 Current Location: District 15
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [6, 14, 16]
+
+📜 You sense something useful nearby...
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 4
+
+============================================================
+You have chosen to abandon the Hunger Games.
+The gamemakers automatically execute you for cowardice...
+GAME OVER
+============================================================
+
+Game ended. Thanks for playing!

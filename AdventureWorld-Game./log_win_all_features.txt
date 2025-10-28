@@ -1,0 +1,572 @@
+=== Program Log (2025-10-26 19:23:40) ===
+
+============================================================
+WELCOME TO THE HUNGER GAMES ARENA
+============================================================
+You have been dropped into the arena.
+Find the Victory Token and capture it to win!
+============================================================
+
+------------------------------------------------------------
+📍 Current Location: District 15
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [6, 14, 16]
+
+📜 You sense something useful nearby...
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [6, 14, 16]
+Enter district number: 14
+
+You move to District 14...
+
+📜 You found an ARENA MAP!
+This will help you navigate and find the Victory Token.
+
+------------------------------------------------------------
+📍 Current Location: District 14
+------------------------------------------------------------
+🎒 You have: Arena Map
+
+🚶 You can move to: [4, 13, 15]
+
+🔧 You detect equipment nearby...
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [4, 13, 15]
+Enter district number: 13
+
+You move to District 13...
+
+🔧 You found a CAPTURE DEVICE!
+You can now detect when the Victory Token is nearby.
+You'll need this to capture the token and win!
+
+------------------------------------------------------------
+📍 Current Location: District 13
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [12, 14, 20]
+
+🏆 You feel the Victory Token is close!
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [12, 14, 20]
+Enter district number: 14
+
+You move to District 14...
+
+------------------------------------------------------------
+📍 Current Location: District 14
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [4, 13, 15]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 3
+
+✗ There's no Victory Token here.
+Keep exploring. Use your device to sense when you're close!
+
+------------------------------------------------------------
+📍 Current Location: District 14
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [4, 13, 15]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [4, 13, 15]
+Enter district number: 4
+
+You move to District 4...
+
+------------------------------------------------------------
+📍 Current Location: District 4
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [3, 5, 14]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [3, 5, 14]
+Enter district number: 5
+
+You move to District 5...
+
+------------------------------------------------------------
+📍 Current Location: District 5
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [1, 4, 6]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [1, 4, 6]
+Enter district number: 1
+
+You move to District 1...
+
+------------------------------------------------------------
+📍 Current Location: District 1
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [2, 5, 8]
+
+⚠️  WARNING: You sense deadly danger nearby!
+⚡ CAUTION: Something feels off about a nearby area...
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [2, 5, 8]
+Enter district number: 2
+
+You move to District 2...
+
+⚡ THE GAMEMAKERS INTERVENED! ⚡
+A sudden explosion rocks the arena!
+You wake up confused in a different location...
+Your map and device are destroyed in the explosion!
+You find yourself in District 15.
+
+------------------------------------------------------------
+📍 Current Location: District 15
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [6, 14, 16]
+
+📜 You sense something useful nearby...
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [6, 14, 16]
+Enter district number: 14
+
+You move to District 14...
+
+📜 You found an ARENA MAP!
+This will help you navigate and find the Victory Token.
+
+------------------------------------------------------------
+📍 Current Location: District 14
+------------------------------------------------------------
+🎒 You have: Arena Map
+
+🚶 You can move to: [4, 13, 15]
+
+🔧 You detect equipment nearby...
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [4, 13, 15]
+Enter district number: 13
+
+You move to District 13...
+
+🔧 You found a CAPTURE DEVICE!
+You can now detect when the Victory Token is nearby.
+You'll need this to capture the token and win!
+
+------------------------------------------------------------
+📍 Current Location: District 13
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [12, 14, 20]
+
+🏆 You feel the Victory Token is close!
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [12, 14, 20]
+Enter district number: 14
+
+You move to District 14...
+
+------------------------------------------------------------
+📍 Current Location: District 14
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [4, 13, 15]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 2
+
+============================================================
+📜 ARENA MAP
+============================================================
+[90m
+             ● ● ● ● [0m[97m[44m18[0m[90m ● ● ● ●            
+            ●        ●         ●           
+           ●     ● ● [0m[97m[44m9[0m[90m ● ●      ●          
+          ●     ●         ●      ●        
+         ●     ●           ●      ●    
+        [0m[97m[44m17[0m[90m     [0m[97m[44m8[0m[90m           [0m[97m[44m10[0m[90m      [0m[97m[44m19[0m[90m       
+        ● ●   ●  ●        ●  ●    ● ●       
+        ●  ● ●    ●      ●    ●  ●  ●    
+        ●   [0m[97m[44m7[0m[90m       [0m[97m[44m1[0m[90m ● [0m[97m[44m2[0m[90m      [0m[97m[44m11[0m[90m   ●       
+        ●   ●      ●    ●       ●   ●      
+        ●   [0m[97m[44m6[0m[90m ● ● [0m[97m[44m5[0m[90m      [0m[97m[44m3[0m[90m ● ● [0m[97m[44m12[0m[90m   ●       
+        ●   ●      ●    ●       ●   ●      
+        ●   ●         [0m[97m[44m4[0m[90m        ●    ●       
+        ●    ●        ●       ●     ●       
+        ●     [0m[97m[44m15[0m[90m ● ● [0m[97m[44m14[0m[90m ● ● [0m[97m[44m13[0m[90m      ●           
+         ●   ●                ●    ●        
+          ● ●                  ●  ●        
+           [0m[97m[44m16[0m[90m ● ● ● ● ● ● ● ● ● [0m[97m[44m20[0m[90m
+        [0m[0m
+
+🏆 Victory Token Location: District 20
+============================================================
+
+------------------------------------------------------------
+📍 Current Location: District 14
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [4, 13, 15]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [4, 13, 15]
+Enter district number: 15
+
+You move to District 15...
+
+------------------------------------------------------------
+📍 Current Location: District 15
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [6, 14, 16]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [6, 14, 16]
+Enter district number: 6
+
+You move to District 6...
+
+------------------------------------------------------------
+📍 Current Location: District 6
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [5, 7, 15]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [5, 7, 15]
+Enter district number: 5
+
+You move to District 5...
+
+------------------------------------------------------------
+📍 Current Location: District 5
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [1, 4, 6]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [1, 4, 6]
+Enter district number: 1
+
+You move to District 1...
+
+------------------------------------------------------------
+📍 Current Location: District 1
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [2, 5, 8]
+
+⚠️  WARNING: You sense deadly danger nearby!
+⚡ CAUTION: Something feels off about a nearby area...
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [2, 5, 8]
+Enter district number: 5
+
+You move to District 5...
+
+------------------------------------------------------------
+📍 Current Location: District 5
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [1, 4, 6]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [1, 4, 6]
+Enter district number: 6
+
+You move to District 6...
+
+------------------------------------------------------------
+📍 Current Location: District 6
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [5, 7, 15]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [5, 7, 15]
+Enter district number: 15
+
+You move to District 15...
+
+------------------------------------------------------------
+📍 Current Location: District 15
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [6, 14, 16]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [6, 14, 16]
+Enter district number: 14
+
+You move to District 14...
+
+------------------------------------------------------------
+📍 Current Location: District 14
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [4, 13, 15]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [4, 13, 15]
+Enter district number: 15
+
+You move to District 15...
+
+------------------------------------------------------------
+📍 Current Location: District 15
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [6, 14, 16]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [6, 14, 16]
+Enter district number: 16
+
+You move to District 16...
+
+------------------------------------------------------------
+📍 Current Location: District 16
+------------------------------------------------------------
+🎒 You have: Arena Map
+🎒 You have: Capture Device
+
+🚶 You can move to: [15, 17, 20]
+
+🏆 You feel the Victory Token is close!
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [15, 17, 20]
+Enter district number: 20
+
+You move to District 20...
+
+============================================================
+🏆 VICTORY! YOU WIN! 🏆
+============================================================
+You found the Victory Token and captured it!
+The cannon fires - the Games are over!
+You survived the Hunger Games!
+You are the VICTOR!
+============================================================
+
+Game ended. Thanks for playing!

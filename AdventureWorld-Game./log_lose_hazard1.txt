@@ -1,0 +1,84 @@
+=== Program Log (2025-10-26 19:10:05) ===
+
+============================================================
+WELCOME TO THE HUNGER GAMES ARENA
+============================================================
+You have been dropped into the arena.
+Find the Victory Token and capture it to win!
+============================================================
+
+------------------------------------------------------------
+📍 Current Location: District 15
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [6, 14, 16]
+
+📜 You sense something useful nearby...
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [6, 14, 16]
+Enter district number: 6
+
+You move to District 6...
+
+------------------------------------------------------------
+📍 Current Location: District 6
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [5, 7, 15]
+
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [5, 7, 15]
+Enter district number: 7
+
+You move to District 7...
+
+------------------------------------------------------------
+📍 Current Location: District 7
+------------------------------------------------------------
+🎒 Inventory: Empty
+
+🚶 You can move to: [6, 8, 17]
+
+⚠️  WARNING: You sense deadly danger nearby!
+------------------------------------------------------------
+
+What would you want to do?
+1. Move
+2. View Map
+3. Capture Treasure
+4. Quit
+Enter 1-4: 1
+
+You can move to: [6, 8, 17]
+Enter district number: 8
+
+You move to District 8...
+
+============================================================
+💀 GAME OVER - YOU DIED 💀
+============================================================
+You triggered a deadly trap!
+Perhaps it was tracker jackers, or poisonous gas,
+or a land mine... Either way, you're dead.
+The Hunger Games are over for you.
+============================================================
+
+Game ended. Thanks for playing!
