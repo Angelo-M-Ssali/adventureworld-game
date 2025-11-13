@@ -45,5 +45,4 @@ You feel the Victory Token is close!
 
 **📘 Credits**
 Developed by Angelo Mark Ssali
-for CS 111 – Programme Design (Python)
-University of Illinois Chicago. 
+ 
